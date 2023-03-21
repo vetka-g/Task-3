@@ -17,4 +17,4 @@
 
 ### Фото
 
-![](photo-sg-2.jpg)
+![](photo-sg-2.png)
