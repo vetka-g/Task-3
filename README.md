@@ -17,4 +17,4 @@
 
 ### Фото
 
-<img src="https://drive.google.com/file/d/13Ow5oByNmMjXYw4qE3ni1RzWG5ymf7Ac/view?usp=sharing" alt="Фото" title="Фото" />
+![](photo-sg-2.jpg)
